@@ -6,13 +6,13 @@ An AI agent that **buys live market data per call with USDC** and tells you what
 $ npm run brief -- NVDA
 
 NVIDIA CORP (NVDA)
-Latest quarter (2026-…): revenue $…B, net margin …%, revenue growth …% year over year
-Insiders, last 90 days: … open-market buys, … sales
-Notable 8-K filings, last 30 days: …
+Latest quarter (2026-07-26): revenue $96.2B, net margin 62.0%, revenue growth 106% year over year
+Insiders, last 90 days: 0 open-market buys, 25 sales
+Notable 8-K filings, last 30 days: none
 
 Paid $0.0168 for 3 calls. Data, not investment advice.
 ```
-*(The shape of the output; the numbers are live when you run it.)*
+*(A real run from Oct 23, 2026. Your numbers are live when you run it.)*
 
 ## Two ways to run it
 
